@@ -25,7 +25,3 @@ The project works with a list of games, where each game has the following proper
 **Distinct and Existence Checks** – Identify unique values, check for the presence of specific games, or verify conditions across all items in the collection.
 
 **Joins** – Combine the games collection with other related datasets, such as game reviews, to enrich the information available.
-
-**Purpose
-**
-This project serves as a comprehensive reference for developers learning LINQ in C#. It demonstrates how to efficiently query and manipulate collections, providing practical examples of common operations used in real-world applications.
